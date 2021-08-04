@@ -11,10 +11,8 @@ I am going to build a one-player tic-tac-toe game, which we can play in the Term
 - `python3 TicTacToe_Game.py`
 
 ## Screenshots
-![Image](2.png)
-x-special/nautilus-clipboard
-copy
-file:///home/vishal/Pictures/2.png
+![2](https://user-images.githubusercontent.com/74820625/128242633-2b4712b4-429e-4fd6-b074-5e0f69f33176.png)
+
 
 
 Just follow ☝️ me and give Star ⭐ my repository
